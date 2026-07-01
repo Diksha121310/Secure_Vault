@@ -166,7 +166,6 @@ SecureVault/
 * Admin Dashboard
 * GitHub Actions CI/CD
 * AWS Deployment
-* Dark/Light Theme Support
 * Browser Extension
 
 ---
